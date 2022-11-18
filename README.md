@@ -1,7 +1,6 @@
 ## React Simple Database Operations
 
-[![Build][build-badge]][build]
-![example branch parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)
+![example branch parameter](src="https://github.com/remarkjs/react-markdown/workflows/main/badge.svg")
 
 ![Image](https://products.vadi.info/screenshot.jpg)
 

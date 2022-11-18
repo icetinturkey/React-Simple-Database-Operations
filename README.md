@@ -1,7 +1,9 @@
 ## React Simple Database Operations
 
 [![Product Name Screen Shot][product-screenshot]](https://products.vadi.info/screenshot.jpg)
-
+[[Product Name Screen Shot][product-screenshot]](https://products.vadi.info/screenshot.jpg)
+![Image](https://products.vadi.info/screenshot.jpg)
+[Image](https://products.vadi.info/screenshot.jpg)
 In this project I prepared with React, I handle basic database operations. Here you can find the functions of adding products, deleting products and sorting products.
 
 ### Built With

@@ -2,12 +2,13 @@
 
 
 [[Product Name Screen Shot][product-screenshot]](https://products.vadi.info/screenshot.jpg)
-
+![Image](https://products.vadi.info/screenshot.jpg)
+[Image](https://products.vadi.info/screenshot.jpg)
 In this project I prepared with React, I handle basic database operations. Here you can find the functions of adding products, deleting products and sorting products.
 
 ### Built With
-##### This project build with React 18.2.0
-##### [[React][React.js]][React-url]
+This project build with React 18.2.0
+[![React][React.js]][React-url]
 
 Frontend:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others

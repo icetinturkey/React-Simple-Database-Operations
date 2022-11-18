@@ -11,11 +11,11 @@ In this project I prepared with React, I handle basic database operations. Here 
 #### Preview; [https://products.vadi.info](https://products.vadi.info)
 
 ### Frontend:
-* Download modules folder First of all, you must run the following command: [`npm install`](https://docs.npmjs.com/cli/v8/commands/npm-install)
-* Set Up Backend Connection Then, backend link should be set in 'Addpage.js' and 'Main.js'
-* Build an app Finally, run the following command: [`npm run build`](https://create-react-app.dev/docs/deployment/#serving-apps-with-client-side-routing)
+* Download modules folder - First of all, you must run the following command: [`npm install`](https://docs.npmjs.com/cli/v8/commands/npm-install)
+* Set Up Backend Connection - Then, backend link should be set in 'Addpage.js' and 'Main.js'
+* Build an app - Finally, run the following command: [`npm run build`](https://create-react-app.dev/docs/deployment/#serving-apps-with-client-side-routing)
 
 ### Backend:
-* Load SQL File First install the 'scandi.sql' file from the phpMyAdmin.
-* Set Connection Credentials Enter your server connection informations to 'Backend.php' file.
-* Upload Files Upload 'Backend.php' and 'Operations.php' files.
+* Load SQL File -First install the [`scandi.sql`](https://raw.githubusercontent.com/icetinturkey/React-Simple-Database-Operations/main/Backend/scandi.sql) file from the phpMyAdmin.
+* Set Connection Credentials - Enter your server connection informations to 'Backend.php' file.
+* Upload Files - Upload 'Backend.php' and 'Operations.php' files.

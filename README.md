@@ -1,6 +1,6 @@
 ## React Simple Database Operations
 
-![example branch parameter](src="https://github.com/remarkjs/react-markdown/workflows/main/badge.svg")
+![example branch parameter](https://github.com/remarkjs/react-markdown/workflows/main/badge.svg)
 
 ![Image](https://products.vadi.info/screenshot.jpg)
 
